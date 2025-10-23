@@ -28,3 +28,5 @@
 - Collage name : CV Raman
 
 <br>
+- Name : Vansh Adhlakha
+- Collage name : Newton School of Technology
